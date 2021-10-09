@@ -1,2 +1,2 @@
-# NLP-and-ML-Project-Python_Toxicity
+# NLP-and-ML-Project_Toxicity
 Build classifier to label statement "Toxic" or "Not Toxic"
