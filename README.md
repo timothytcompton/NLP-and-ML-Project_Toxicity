@@ -1,3 +1,2 @@
-# NLP-and-ML-Project_Toxicity
-Python in Jupyter Notebooks
+# Python NLP-and-ML-Project_Toxicity
 Build classifier to label statement "Toxic" or "Not Toxic"
